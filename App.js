@@ -7,6 +7,11 @@ export default function App() {
       <Text>Hellooooooooo</Text>
       <Text>Hellooooooooo</Text>
       <Text>Hellooooooooo</Text>
+      <Text>Hellooooooooo</Text>
+      <Text>Hellooooooooo</Text>
+      <Text>Hellooooooooo</Text>
+      <Text>Hellooooooooo</Text>
+      
 
       <StatusBar style="auto" />
     </View>
